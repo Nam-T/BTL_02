@@ -1,6 +1,6 @@
 package Game;
 
-import FrameWork.GameScreen;
+//import FrameWork.GameScreen;
 import FrameWork.SoundPlayer;
 
 import javax.imageio.ImageIO;
